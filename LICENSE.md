@@ -62,5 +62,5 @@ Licensed Material is provided "as is," without warranties. Licensors are not lia
 ### Why Choose the Ethical AI License?
 This license promotes responsible AI usage, ensuring respect for ethical principles while enabling innovation. It’s designed to balance freedom with accountability, providing clear frameworks for use, review, and compliance.
 
-- [View License Text]
+- [[View License Text]]
 - [Download PDF Version](https://8b.is/License.pdf)
